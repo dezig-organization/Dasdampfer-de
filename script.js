@@ -65,7 +65,7 @@ const heroSlides = [
         rating: '4.8',
         detail: '5000+ Züge',
         description: 'Beste Preise für Einweg E-Zigaretten in Deutschland. Szeroki wybór popularnych marek i smaków. Kostenloser Versand od 200 zł. Tylko u nas promocje na top kolekcje BestDampfer!',
-        image: 'images/baner/Einweg E-Zigaretten-polska-Züge-e-papieros-merryMI.png',
+        image: 'images/img/Einweg-E-Zigaretten-polska-Zuge-e-papieros-merryMI.png',
         link: 'https://dezig.de/product-category/merrymi-de/'
     },
     {
@@ -74,7 +74,7 @@ const heroSlides = [
         rating: '4.9',
         detail: '6000+ Züge',
         description: 'Odkryj nasze najnowsze produkty z kategorii e-papierosów jednorazowych. Najlepsze smaki, najwyższa jakość. Sprawdź nasze promocje i darmową dostawę!',
-        image: 'images/baner/Einweg E-Zigaretten-polska-Züge-e-papieros-fumot.png',
+        image: 'images/img/Einweg-E-Zigaretten-polska-Zuge-e-papieros-fumot.png',
         link: 'https://dezig.de/product-category/fumot-de/'
     },
     {
@@ -83,7 +83,7 @@ const heroSlides = [
         rating: '5.0',
         detail: '7000+ Züge',
         description: 'Ekskluzywna kolekcja najlepszych jednorazówek dostępnych tylko u nas. Najlepsze ceny, najszybsza dostawa. Zobacz nasze bestsellery i wybierz swoją ulubioną efajkę!',
-        image: 'images/baner/Einweg E-Zigaretten-polska-Züge-e-papieros-jnr.png',
+        image: 'images/img/Einweg-E-Zigaretten-polska-Zuge-e-papieros-jnr.png',
         link: 'https://dezig.de/product-category/jnr-de/'
     }
 ];
